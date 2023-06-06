@@ -1,0 +1,26 @@
+.loader {
+    display: none;
+  }
+  
+  .error {
+    display: none;
+    color: red;
+  }
+  
+  .content {
+    display: none;
+  }
+  
+  .cat-info {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  .cat-image {
+    width: 200px;
+  }
+  
+  .breed-select {
+    margin-bottom: 10px;
+  }
+  
